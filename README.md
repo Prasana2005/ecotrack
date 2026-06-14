@@ -1,16 +1,48 @@
-# ecotrack
+# EcoTrack 🌱
 
-A new Flutter project.
+EcoTrack is a Flutter-based sustainability challenge application that encourages users to adopt eco-friendly habits through daily challenges, rewards, and impact tracking.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Authentication using Firebase
+- Daily Eco Challenges
+- Eco Points System
+- Rewards Page
+- Real Impact Tracking
+- Notifications
+- User Profile
+- Responsive UI
+- Splash Screen
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase Authentication
+- Firebase Firestore
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+
+- Splash Screen
+- Login / Signup
+- Dashboard
+- Challenges
+- Rewards
+- Impact
+- Notifications
+- Profile
+
+## How to Run
+
+1. Clone the repository
+2. Run:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Author
+
+Prasana Akshaya
